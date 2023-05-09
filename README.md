@@ -1,4 +1,4 @@
-# Hydraulics_and_Pneumatics
+# PNEUMATICS
 ## Use of Counters (Electric and Pneumatic)
 
 ![image](https://github.com/EQ163/Hydraulics_and_Pneumatics/assets/126763518/e6ca0412-c15e-4986-b259-fdbefe8c6092)
