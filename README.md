@@ -59,5 +59,20 @@ https://github.com/EQ163/Hydraulics_and_Pneumatics/assets/126763518/e7c78145-c45
 ---
 ---
 
+![image](https://github.com/EQ163/Hydraulics_and_Pneumatics/assets/126763518/b9abdf86-b61f-481d-bf21-b37323e78e5d)
+
+Problem Statement - Using a transfer station blocks are to be transferred from a magazine to a processing station.
+The blocks are pushed out of the magazine by cylinder A and transferred to the processing station by cylinder B. The piston rod of cylinder B may only return when the piston rod of cylinder A has reached the retracted end position. The magazine is monitored by means of a limit switch. If there are no more blocks in the magazine, it is not possible to start the cycle. This is indicated by means of an audible signal. The control is to be operated in a
+single cycle.
+
+
+https://github.com/EQ163/Hydraulics_and_Pneumatics/assets/126763518/c97c8055-a409-44fc-b48c-b10c3d6901fe
+
+The first two rungs are used to demonstrate whether there are blocks or not. The first push button raises an alarm meaning there are no blocks
+
+---
+---
+
+
 
 
