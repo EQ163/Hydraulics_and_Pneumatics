@@ -40,19 +40,24 @@ https://github.com/EQ163/Hydraulics_and_Pneumatics/assets/126763518/14aaa916-190
 Problem Statement - Quarry stones are fed from a crushing roller to two vibrating sieves by means of an overhead conveyor belt. The fine upper sieves oscillate in opposing push pull motion to the coarser lower screen. The sieve oscillating frequency of the two double acting cylinders is set to f = 1 Hz via the quantity of air supplied in load dependent relation. Reversal takes place in the retracted end position via two roller lever valves. A third single acting cylinder unclogs the sieves via two cables. The stone sorter is switched on and off
 by a valve with selector switch.
 
+
+https://github.com/EQ163/Hydraulics_and_Pneumatics/assets/126763518/ca5a8da3-74ff-4289-9e81-705ce4d4b339
+
+
 ---
 ---
 ![image](https://github.com/EQ163/Hydraulics_and_Pneumatics/assets/126763518/4005116a-8b3b-47ce-8115-a32b674bcb5f)
+
 
 Problem Statement - Pieces of stainless steel sheet of 0.6 mm thickness are placed by hand into the input station. After a valve has been operated by push button, the ejector cylinder retracts with exhaust air restricted while, at the same time, clamping cylinder also advances with its exhaust air restricted; the sieve blank is pushed along and clamped. The time for retraction of ejector cylinder and extension of clamping cylinder is to be adjustable.
 During an adjustable clamping time of t = 5 seconds, a laser cutting head produces a fine mesh sieve. After this operation, the clamping cylinder is retracted without restriction, following which the ejector cylinder pushes out the finished sieve, which is free of burred
 edges by a forward thrusting action.
 
+https://github.com/EQ163/Hydraulics_and_Pneumatics/assets/126763518/e7c78145-c459-4e63-a31b-8b60eb569148
 
-
-https://github.com/EQ163/Hydraulics_and_Pneumatics/assets/126763518/3624f3b2-b4f3-4896-b235-c8d761346d76
 
 ---
 ---
+
 
 
